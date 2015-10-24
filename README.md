@@ -252,6 +252,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python.
 * [PyNLPl](https://github.com/proycon/pynlpl) - A specialized Python Natural Language Processing library.
 * [python-ucto](https://github.com/proycon/python-ucto) - Python binding for Ucto: an advanced rule-based tokenizer.
+* [python-frog](https://github.com/proycon/python-frog) - Python binding for an extensive Dutch NLP suite. 
 * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 * [TextBlob](http://textblob.readthedocs.org/) - Providing a consistent API for diving into common NLP tasks.
 
